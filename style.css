@@ -327,7 +327,7 @@ form.btn2{
 
 @media screen and (max-width: 600px){
     #header{
-        background-image: url(2.jpg);
+        background-image: url(front.png);
     }
     .header_text{
         margin-top: 100%;
