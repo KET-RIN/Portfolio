@@ -387,13 +387,6 @@ form.btn2{
         font-size: 14px;
     }
 }
-/*
-@media screen and (max-width: 1000px){
-    #about{
-        margin-top: 50px;
-        background-color: yellow;
-    }
-*/
 #msg{
     color: #61b752;
     margin-top: -40px;
