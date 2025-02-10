@@ -72,14 +72,10 @@ nav ul li a:hover::after{
 .header_text h1{
     font-size: 60px;
     margin-top: 20px;
-    /***********88888*/
-    position:relative;
 }
 
 .header_text h1 span{
     color: #ff004f;
-    /*******88888*****/
-    position:relative;
 }
 
 /*-------------About----------------*/
@@ -339,14 +335,7 @@ form.btn2{
     }
     .header_text h1{
         font-size: 30px;
-    }
-    /*********************************/
-    header_text h1 span{
-        top:-10px;
-        display:flex;
-        flex-direction:column;
-    }
-   /*****************************/ 
+    } 
     .fa-solid.fa-bars, .fa-solid.fa-x{
         display: block;
         font-size: 25px;
