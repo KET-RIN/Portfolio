@@ -384,7 +384,7 @@ form.btn2{
         font-size: 14px;
     }
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 1000px){
     #about{
         margin-top:200px
     }
