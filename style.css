@@ -327,16 +327,12 @@ form.btn2{
 @media screen and (max-width: 1000px){
     #about{
         margin-top:50px;
-       background-color: red;
     }
 }
 
 @media screen and (max-width: 600px){
     #header{
         background-image: url(background.png);
-    }
-    #about{
-        margin-top: 50px;
     }
     .header_text{
         margin-top: 100%;
