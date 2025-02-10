@@ -70,12 +70,17 @@ nav ul li a:hover::after{
 }
 
 .header_text h1{
-font-size: 60px;
-margin-top: 20px;
+    font-size: 60px;
+    margin-top: 20px;
+    /***********88888*/
+    position:relative;
 }
 
 .header_text h1 span{
     color: #ff004f;
+    /*******88888*****/
+   display:block;
+    position:relative;
 }
 
 /*-------------About----------------*/
