@@ -333,9 +333,6 @@ form.btn2{
         margin-top: 100%;
         font-size: 16px;
     }
-    #about{
-        margin-top: 50px;
-    }
     .header_text h1{
         font-size: 30px;
     } 
@@ -387,6 +384,12 @@ form.btn2{
         font-size: 14px;
     }
 }
+@media screen and (max-width: 600px){
+    #about{
+        margin-top:200px
+    }
+}
+
 #msg{
     color: #61b752;
     margin-top: -40px;
