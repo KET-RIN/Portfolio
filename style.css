@@ -324,6 +324,12 @@ form.btn2{
 .fa-solid.fa-bars, .fa-solid.fa-x{
     display: none;
 }
+@media screen and (max-width: 1000px){
+    #about{
+        margin-top:50px
+       background-color: red;
+    }
+}
 
 @media screen and (max-width: 600px){
     #header{
@@ -387,12 +393,7 @@ form.btn2{
         font-size: 14px;
     }
 }
-@media screen and (max-width: 1000px){
-    #about{
-        margin-top:50px
-        background-color: red;
-    }
-}
+
 
 #msg{
     color: #61b752;
