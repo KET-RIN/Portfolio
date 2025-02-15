@@ -183,7 +183,7 @@ nav ul li a:hover::after{
     background: #ff004f;
     transform: translateY(-10px);
 }
-#portfolio .container .worklist .work a{
+#portfolio .container .work-list .work a{
     margin-top: 20px;
     text-decoration: none;
     font-size:20px;
