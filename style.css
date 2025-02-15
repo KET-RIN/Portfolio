@@ -183,13 +183,6 @@ nav ul li a:hover::after{
     background: #ff004f;
     transform: translateY(-10px);
 }
-#portfolio .container .work-list .work a{
-    margin-top: 20px;
-    text-decoration: none;
-    font-size:20px;
-    color:#fff;
-    text-align: center;
-}
 
 /*-----------------portfolio-----------------*/
 #portfolio{
@@ -259,6 +252,15 @@ nav ul li a:hover::after{
 .btn:hover{
     background: #ff004f;
 }
+
+#portfolio .container .work-list .work a{
+    margin-top: 20px;
+    text-decoration: none;
+    font-size:20px;
+    color:rgb(5,5,100);
+    text-align: center;
+}
+
 /*-----------contact-----------*/
 .contact-left{
     flex-basis: 35%;
