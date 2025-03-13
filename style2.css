@@ -241,9 +241,6 @@ nav ul li a:hover::after{
     color: black;
     z-index: 2;
 }
-.work h3:hover {
-    color: white
-}
 .layer p {
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
